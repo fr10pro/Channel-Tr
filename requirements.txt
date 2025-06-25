@@ -1,4 +1,11 @@
-pyrogram==2.0.106
 tgcrypto
-flask
+aiogram
+python-dotenv
 requests
+Flask
+pyrogram
+yt-dlp
+ffmpeg-python
+matplotlib
+sqlalchemy
+pyngrok
