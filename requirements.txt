@@ -1,6 +1,7 @@
 tgcrypto
 aiogram
 python-dotenv
+telethon
 requests
 Flask
 pyrogram
